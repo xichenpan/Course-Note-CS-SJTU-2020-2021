@@ -14,7 +14,6 @@
 * 2020/10/19 添加CS337
 
 ### More Information
-* 更多笔记可以参考[Galaxies99](https://github.com/Galaxies99)的[SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes)和[skyzh](https://github.com/skyzh)的[notes](https://github.com/skyzh/notes)
 * 更多本科课程作业参考可以访问上海交通大学计算机系本科作业参考索引[awesome-cs](https://github.com/SJTU-CSE/awesome-cs)
 
 ### Notice
